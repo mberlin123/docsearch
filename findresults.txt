@@ -1,3 +1,5 @@
+technical/
+technical/911report
 technical/911report/chapter-1.txt
 technical/911report/chapter-10.txt
 technical/911report/chapter-11.txt
@@ -15,6 +17,7 @@ technical/911report/chapter-7.txt
 technical/911report/chapter-8.txt
 technical/911report/chapter-9.txt
 technical/911report/preface.txt
+technical/biomed
 technical/biomed/1468-6708-3-1.txt
 technical/biomed/1468-6708-3-10.txt
 technical/biomed/1468-6708-3-3.txt
@@ -852,6 +855,8 @@ technical/biomed/rr196.txt
 technical/biomed/rr37.txt
 technical/biomed/rr73.txt
 technical/biomed/rr74.txt
+technical/government
+technical/government/About_LSC
 technical/government/About_LSC/Comments_on_semiannual.txt
 technical/government/About_LSC/commission_report.txt
 technical/government/About_LSC/conference_highlights.txt
@@ -869,10 +874,12 @@ technical/government/About_LSC/Special_report_to_congress.txt
 technical/government/About_LSC/State_Planning_Report.txt
 technical/government/About_LSC/State_Planning_Special_Report.txt
 technical/government/About_LSC/Strategic_report.txt
+technical/government/Alcohol_Problems
 technical/government/Alcohol_Problems/DraftRecom-PDF.txt
 technical/government/Alcohol_Problems/Session2-PDF.txt
 technical/government/Alcohol_Problems/Session3-PDF.txt
 technical/government/Alcohol_Problems/Session4-PDF.txt
+technical/government/Env_Prot_Agen
 technical/government/Env_Prot_Agen/1-3_meth_901.txt
 technical/government/Env_Prot_Agen/atx1-6.txt
 technical/government/Env_Prot_Agen/bill.txt
@@ -887,6 +894,7 @@ technical/government/Env_Prot_Agen/ro_clear_skies_book.txt
 technical/government/Env_Prot_Agen/section-by-section_summary.txt
 technical/government/Env_Prot_Agen/tech_adden.txt
 technical/government/Env_Prot_Agen/tech_sectiong.txt
+technical/government/Gen_Account_Office
 technical/government/Gen_Account_Office/ai00134.txt
 technical/government/Gen_Account_Office/ai2132.txt
 technical/government/Gen_Account_Office/ai9868.txt
@@ -978,6 +986,7 @@ technical/government/Gen_Account_Office/Testimony_cg00010t.txt
 technical/government/Gen_Account_Office/Testimony_d01609t.txt
 technical/government/Gen_Account_Office/Testimony_Jul15-2002_d02940t.txt
 technical/government/Gen_Account_Office/Testimony_Jul17-2002_d02957t.txt
+technical/government/Media
 technical/government/Media/5_Legal_Groups.txt
 technical/government/Media/Abuse_penalties.txt
 technical/government/Media/Advocate_for_Poor.txt
@@ -1123,6 +1132,7 @@ technical/government/Media/Wilmington_lawyer.txt
 technical/government/Media/Wingates_winds.txt
 technical/government/Media/Workers_aid_center.txt
 technical/government/Media/Working_for_Free.txt
+technical/government/Post_Rate_Comm
 technical/government/Post_Rate_Comm/Cohenetal_comparison.txt
 technical/government/Post_Rate_Comm/Cohenetal_Cost_Function.txt
 technical/government/Post_Rate_Comm/Cohenetal_CreamSkimming.txt
@@ -1137,6 +1147,7 @@ technical/government/Post_Rate_Comm/Mitchell_spyros-first-class.txt
 technical/government/Post_Rate_Comm/Redacted_Study.txt
 technical/government/Post_Rate_Comm/ReportToCongress2002WEB.txt
 technical/government/Post_Rate_Comm/WolakSpeech_usps.txt
+technical/plos
 technical/plos/journal.pbio.0020001.txt
 technical/plos/journal.pbio.0020010.txt
 technical/plos/journal.pbio.0020012.txt
